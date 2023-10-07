@@ -244,7 +244,9 @@
     }
 }
 @media(max-width:413px){
-    
+    .carouselParagaph {
+        font-size: 45%;
+    }
 }
 
 @media(max-width:387px){
@@ -364,6 +366,12 @@
         padding-bottom: 2%;
     }
 }
+@media(max-width:394px){
+    .carousel2Paragaph {
+        font-size: 40%;
+        margin-bottom: -1%;
+        margin-top: 1%;
+    }
 @media(max-width:387px){
     .carousel2Paragaph {
         font-size: 40%;
